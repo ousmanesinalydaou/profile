@@ -120,7 +120,7 @@ Color scheme notes (neon on dark):
 
 <hr/>
 
-<h2>🚀 Featured Projects (No links)</h2>
+<h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
