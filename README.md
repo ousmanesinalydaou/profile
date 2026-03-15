@@ -197,15 +197,14 @@ Color scheme notes (neon on dark):
 
 <h2>🏆 Achievements</h2>
 
-<!-- Fixed: ensure the trophy card renders reliably and is centered -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ousmanesinalydaou&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=6"
-    alt="GitHub trophies"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </p>
 
-<!-- Optional: add a slim “achievement strip” feel -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ousmanesinalydaou&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
 <p align="center">
   <sub><b>Consistency • Impact • Continuous Learning</b></sub>
 </p>
