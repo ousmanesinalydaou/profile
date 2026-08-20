@@ -29,10 +29,21 @@ jobs:
           # profile-3d-contrib/profile-gitblock.svg
           # etc.
 
+      - name: Install librsvg for SVG -> PNG conversion
+        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin
+
+      - name: Convert SVGs to PNG thumbnails
+        run: |
+          mkdir -p profile-3d-contrib/thumbs
+          for f in profile-3d-contrib/*.svg; do
+            fname=$(basename "$f" .svg)
+            rsvg-convert -w 1200 -h 600 "$f" -o profile-3d-contrib/thumbs/${fname}.png || true
+          done
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile-3d-contrib || true
-          git commit -m "chore: update 3D contribution graph" || echo "No changes to commit"
+          git commit -m "chore: update 3D contribution graph and add PNG thumbs" || echo "No changes to commit"
           git push
