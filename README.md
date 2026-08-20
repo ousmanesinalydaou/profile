@@ -1,24 +1,24 @@
 <!-- =============================================== -->
-<!--  Ousmane Daou — Engineering / Math / AI Profile  -->
+<!--  Ousmane Daou — Engineering · Math · AI Profile  -->
 <!--  Repo: ousmanesinalydaou/profile                -->
 <!-- =============================================== -->
 
 <h1 align="center">Ousmane Daou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=Software+Engineer;MSc+Computer+Science+Student+%40+University+of+Debrecen;AI+%7C+Cloud+%7C+NoSQL+Developer;Building+Intelligent+Systems;OpenGL+Graphics+%26+Geometric+Computing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=Software+Engineer;MSc+Computer+Science;AI+&+Distributed+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ousmanesinalydaou&style=for-the-badge&color=00f7ff" />
+  <img src="https://komarev.com/ghpvc/?username=ousmanesinalydaou&style=for-the-badge&color=00f7ff" alt="profile views"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/ousmanedaou/">
-    <img src="https://img.shields.io/badge/LinkedIn-ousmanedaou-00f7ff?style=for-the-badge&logo=linkedin&logoColor=001018" />
+    <img src="https://img.shields.io/badge/LinkedIn-ousmanedaou-00f7ff?style=for-the-badge&logo=linkedin&logoColor=001018" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 MSc CS @ University of Debrecen</code> &nbsp; <code>💼 CEO @ DAOU ENTERPRISE</code>
+  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 MSc Computer Science — University of Debrecen</code> &nbsp; <code>💼 CEO — DAOU ENTERPRISE</code>
 </p>
 
 <hr/>
@@ -31,19 +31,19 @@
 
 <b>Core domains</b>
 
-- <b>AI & Data Mining</b> (retrieval, prediction, clustering, decision systems)
-- <b>NoSQL & Distributed Data</b> (MongoDB, Cassandra, ArangoDB)
-- <b>Cloud Architecture</b> (scalable services, reliability, automation)
-- <b>Backend Engineering</b> (FastAPI, clean APIs, performance-driven design)
-- <b>Computer Graphics</b> (OpenGL: curves, cameras, animation, interaction)
+- <b>AI & Data Mining</b> — retrieval, prediction, clustering, decision systems
+- <b>NoSQL & Distributed Data</b> — MongoDB, Cassandra, ArangoDB
+- <b>Cloud Architecture</b> — scalable services, reliability, automation
+- <b>Backend Engineering</b> — FastAPI, clean APIs, performance-driven design
+- <b>Computer Graphics</b> — OpenGL: curves, cameras, animation, interaction
 
 <b>Guiding principle</b><br/>
 <sub><i>“Technology becomes powerful when it solves real problems.”</i></sub>
 
 </td>
-<td width="45%" valign="top">
+    <td width="45%" valign="top">
 
-<b>Focus matrix</b>
+<b>Skill matrix</b>
 
 ```text
 AI / ML           ██████████  10/10
@@ -60,29 +60,12 @@ OpenGL Graphics   ████████░░   8/10
 - Scalable NoSQL architectures
 
 </td>
-</tr>
+  </tr>
 </table>
 
 <hr/>
 
-<h2>🎓 MSc Thesis</h2>
-
-<p>
-<b>Title:</b> Application Development for a NoSQL Database<br/>
-<b>Supervisor:</b> Dr. Vágner Anikó Szilvia<br/>
-<b>Exploring:</b> MongoDB • Cassandra • ArangoDB
-</p>
-
-<hr/>
-
 <h2>⚙️ Tech Blueprint</h2>
-
-<!--
-Color scheme notes (neon on dark):
-- Primary neon: 00F7FF
-- Accents: 7C4DFF (violet), FF2E88 (magenta), 00FF87 (green)
-- Text/dark: 001018
--->
 
 <p>
 <b>Languages</b><br/>
@@ -137,7 +120,7 @@ Color scheme notes (neon on dark):
 <sub><b>Stack:</b> FastAPI • React • Python • Cassandra / Amazon Keyspaces</sub>
 
 </td>
-<td valign="top" width="33%">
+    <td valign="top" width="33%">
 
 <h3>☁️ Intelligent Document Summarizer</h3>
 
@@ -150,7 +133,7 @@ Color scheme notes (neon on dark):
 <sub><b>Stack:</b> Blazor WebAssembly • Azure OpenAI • C#</sub>
 
 </td>
-<td valign="top" width="33%">
+    <td valign="top" width="33%">
 
 <h3>🎮 OpenGL Graphics</h3>
 
@@ -163,7 +146,7 @@ Color scheme notes (neon on dark):
 <sub><b>Focus:</b> OpenGL • Geometric computing</sub>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 <hr/>
@@ -171,61 +154,36 @@ Color scheme notes (neon on dark):
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=ousmanesinalydaou&theme=tokyonight&hide_border=true" />
+  <!-- consolidated analytics for clarity -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmanesinalydaou&theme=tokyo-night&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousmanesinalydaou&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousmanesinalydaou&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousmanesinalydaou&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousmanesinalydaou&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousmanesinalydaou&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmanesinalydaou&theme=tokyo-night&area=true" alt="contribution activity"/>
 </p>
 
 <hr/>
-
-<h2>🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ousmanesinalydaou&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <sub><b>Consistency • Impact • Continuous Learning</b></sub>
-</p>
 
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
+    <!-- The snake svgs are published to the "output" branch by the workflow -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ousmanesinalydaou/profile/output/github-contribution-grid-snake-dark.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ousmanesinalydaou/profile/output/github-contribution-grid-snake.svg" />
   </picture>
+  <br/>
+  <sub>Animated contribution path — light / dark variants generated automatically.</sub>
 </p>
 
 <hr/>
 
 <h2>🧊 3D Contribution Map</h2>
 
-<!-- Generated by a GitHub Action in this repo -->
+<!-- Generated by a GitHub Action in this repo; published to the output branch -->
 <p align="center">
   <img
-    src="profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://raw.githubusercontent.com/ousmanesinalydaou/profile/output/profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D contribution map"
     width="100%"
   />
