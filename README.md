@@ -21,8 +21,35 @@
   <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 MSc Computer Science — University of Debrecen</code> &nbsp; <code>💼 CEO — DAOU ENTERPRISE</code>
 </p>
 
+<!-- Contact + workflow badges -->
+<p align="center">
+  <a href="mailto:ousmane.daou@example.com">
+    <img src="https://img.shields.io/badge/Email-ousmane%40daou-00f7ff?style=for-the-badge&logo=gmail&logoColor=001018" alt="email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ousmanesinalydaou/profile/actions/workflows/snake.yml">
+    <img src="https://github.com/ousmanesinalydaou/profile/actions/workflows/snake.yml/badge.svg" alt="snake workflow" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ousmanesinalydaou">
+    <img src="https://img.shields.io/badge/GitHub-ousmanesinalydaou-00f7ff?style=for-the-badge&logo=github&logoColor=001018" alt="github" />
+  </a>
+</p>
+
 <hr/>
 
+<h2>Contents</h2>
+
+- [Engineering Snapshot](#engineering-snapshot)
+- [Tech Blueprint](#tech-blueprint)
+- [Featured Projects](#featured-projects)
+- [GitHub Analytics](#github-analytics)
+- [Contribution Snake](#contribution-snake)
+- [3D Contribution Map](#3d-contribution-map)
+- [Research Interests](#research-interests)
+- [Collaboration & Contact](#collaboration--contact)
+
+<a name="engineering-snapshot"></a>
 <h2>∑ Engineering Snapshot</h2>
 
 <table>
@@ -63,6 +90,7 @@ OpenGL Graphics   ████████░░   8/10
   </tr>
 </table>
 
+<a name="tech-blueprint"></a>
 <hr/>
 
 <h2>⚙️ Tech Blueprint</h2>
@@ -101,6 +129,7 @@ OpenGL Graphics   ████████░░   8/10
 <img src="https://img.shields.io/badge/Confluence-00F7FF?style=for-the-badge&logo=confluence&logoColor=001018" />
 </p>
 
+<a name="featured-projects"></a>
 <hr/>
 
 <h2>🚀 Featured Projects</h2>
@@ -149,19 +178,21 @@ OpenGL Graphics   ████████░░   8/10
   </tr>
 </table>
 
+<a name="github-analytics"></a>
 <hr/>
 
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <!-- consolidated analytics for clarity -->
   <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousmanesinalydaou&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmanesinalydaou&theme=tokyo-night&area=true" alt="contribution activity"/>
 </p>
 
+<a name="contribution-snake"></a>
 <hr/>
 
 <h2>🐍 Contribution Snake</h2>
@@ -176,6 +207,7 @@ OpenGL Graphics   ████████░░   8/10
   <sub>Animated contribution path — light / dark variants generated automatically.</sub>
 </p>
 
+<a name="3d-contribution-map"></a>
 <hr/>
 
 <h2>🧊 3D Contribution Map</h2>
@@ -189,6 +221,7 @@ OpenGL Graphics   ████████░░   8/10
   />
 </p>
 
+<a name="research-interests"></a>
 <hr />
 
 <h2>📚 Research Interests</h2>
@@ -202,7 +235,10 @@ OpenGL Graphics   ████████░░   8/10
   <li>Optimization Methods</li>
 </ul>
 
-<h2>🤝 Collaboration</h2>
+<a name="collaboration--contact"></a>
+<hr />
+
+<h2>🤝 Collaboration & Contact</h2>
 
 Interested in collaborating on:
 - AI applications
@@ -212,7 +248,8 @@ Interested in collaborating on:
 - OpenGL / interactive graphics
 
 <p>
-<b>LinkedIn:</b> https://www.linkedin.com/in/ousmanedaou/
+<b>LinkedIn:</b> https://www.linkedin.com/in/ousmanedaou/  
+<b>Email:</b> ousmane.daou [at] example.com
 </p>
 
 <p align="center">
