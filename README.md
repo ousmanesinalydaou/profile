@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 MSc Computer Science — University of Debrecen</code> &nbsp; <code>💼 CEO — DAOU ENTERPRISE</code>
+  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 PhD Computer Science — University of Debrecen</code> &nbsp; <code>💼 CEO — DAOU ENTERPRISE</code>
 </p>
 
 <!-- Contact + workflow badges -->
 <p align="center">
-  <a href="mailto:ousmane.daou@example.com">
+  <a href="mailto:ousmanedaou@live.fr">
     <img src="https://img.shields.io/badge/Email-ousmane%40daou-00f7ff?style=for-the-badge&logo=gmail&logoColor=001018" alt="email" />
   </a>
   &nbsp;
