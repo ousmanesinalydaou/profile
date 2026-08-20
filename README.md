@@ -1,55 +1,28 @@
 <!-- =============================================== -->
-<!--  Ousmane Daou — Engineering · Math · AI Profile  -->
+<!--  Ousmane Daou — Engineering / Math / AI Profile  -->
 <!--  Repo: ousmanesinalydaou/profile                -->
 <!-- =============================================== -->
 
 <h1 align="center">Ousmane Daou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=Software+Engineer;MSc+Computer+Science;AI+&+Distributed+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=Software+Engineer;MSc+Computer+Science+Stude[...]
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ousmanesinalydaou&style=for-the-badge&color=00f7ff" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ousmanesinalydaou&style=for-the-badge&color=00f7ff" />
   &nbsp;
   <a href="https://www.linkedin.com/in/ousmanedaou/">
-    <img src="https://img.shields.io/badge/LinkedIn-ousmanedaou-00f7ff?style=for-the-badge&logo=linkedin&logoColor=001018" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ousmanedaou-00f7ff?style=for-the-badge&logo=linkedin&logoColor=001018" />
   </a>
 </p>
 
 <p align="center">
-  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 PhD Computer Science — University of Debrecen</code> &nbsp; <code>💼 CEO — DAOU ENTERPRISE</code>
-</p>
-
-<!-- Contact + workflow badges -->
-<p align="center">
-  <a href="mailto:ousmanedaou@live.fr">
-    <img src="https://img.shields.io/badge/Email-ousmane%40daou-00f7ff?style=for-the-badge&logo=gmail&logoColor=001018" alt="email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ousmanesinalydaou/profile/actions/workflows/snake.yml">
-    <img src="https://github.com/ousmanesinalydaou/profile/actions/workflows/snake.yml/badge.svg" alt="snake workflow" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ousmanesinalydaou">
-    <img src="https://img.shields.io/badge/GitHub-ousmanesinalydaou-00f7ff?style=for-the-badge&logo=github&logoColor=001018" alt="github" />
-  </a>
+  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 MSc CS @ University of Debrecen</code> &nbsp; <code>💼 CEO @ DAOU ENTERPRISE</code>
 </p>
 
 <hr/>
 
-<h2>Contents</h2>
-
-- [Engineering Snapshot](#engineering-snapshot)
-- [Tech Blueprint](#tech-blueprint)
-- [Featured Projects](#featured-projects)
-- [GitHub Analytics](#github-analytics)
-- [Contribution Snake](#contribution-snake)
-- [3D Contribution Map](#3d-contribution-map)
-- [Research Interests](#research-interests)
-- [Collaboration & Contact](#collaboration--contact)
-
-<a name="engineering-snapshot"></a>
 <h2>∑ Engineering Snapshot</h2>
 
 <table>
@@ -58,11 +31,11 @@
 
 <b>Core domains</b>
 
-- <b>AI & Data Mining</b> — retrieval, prediction, clustering, decision systems
-- <b>NoSQL & Distributed Data</b> — MongoDB, Cassandra, ArangoDB
-- <b>Cloud Architecture</b> — scalable services, reliability, automation
-- <b>Backend Engineering</b> — FastAPI, clean APIs, performance-driven design
-- <b>Computer Graphics</b> — OpenGL: curves, cameras, animation, interaction
+- <b>AI & Data Mining</b> (retrieval, prediction, clustering, decision systems)
+- <b>NoSQL & Distributed Data</b> (MongoDB, Cassandra, ArangoDB)
+- <b>Cloud Architecture</b> (scalable services, reliability, automation)
+- <b>Backend Engineering</b> (FastAPI, clean APIs, performance-driven design)
+- <b>Computer Graphics</b> (OpenGL: curves, cameras, animation, interaction)
 
 <b>Guiding principle</b><br/>
 <sub><i>“Technology becomes powerful when it solves real problems.”</i></sub>
@@ -70,7 +43,7 @@
 </td>
     <td width="45%" valign="top">
 
-<b>Skill matrix</b>
+<b>Focus matrix</b>
 
 ```text
 AI / ML           ██████████  10/10
@@ -90,10 +63,26 @@ OpenGL Graphics   ████████░░   8/10
   </tr>
 </table>
 
-<a name="tech-blueprint"></a>
+<hr/>
+
+<h2>🎓 MSc Thesis</h2>
+
+<p>
+<b>Title:</b> Application Development for a NoSQL Database<br/>
+<b>Supervisor:</b> Dr. Vágner Anikó Szilvia<br/>
+<b>Exploring:</b> MongoDB • Cassandra • ArangoDB
+</p>
+
 <hr/>
 
 <h2>⚙️ Tech Blueprint</h2>
+
+<!--
+Color scheme notes (neon on dark):
+- Primary neon: 00F7FF
+- Accents: 7C4DFF (violet), FF2E88 (magenta), 00FF87 (green)
+- Text/dark: 001018
+-->
 
 <p>
 <b>Languages</b><br/>
@@ -129,7 +118,6 @@ OpenGL Graphics   ████████░░   8/10
 <img src="https://img.shields.io/badge/Confluence-00F7FF?style=for-the-badge&logo=confluence&logoColor=001018" />
 </p>
 
-<a name="featured-projects"></a>
 <hr/>
 
 <h2>🚀 Featured Projects</h2>
@@ -178,21 +166,19 @@ OpenGL Graphics   ████████░░   8/10
   </tr>
 </table>
 
-<a name="github-analytics"></a>
 <hr/>
 
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousmanesinalydaou&layout=compact&theme=tokyonight" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ousmanesinalydaou&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmanesinalydaou&theme=tokyo-night&area=true" alt="contribution activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmanesinalydaou&theme=tokyo-night&area=true" />
 </p>
 
-<a name="contribution-snake"></a>
 <hr/>
 
 <h2>🐍 Contribution Snake</h2>
@@ -203,25 +189,19 @@ OpenGL Graphics   ████████░░   8/10
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ousmanesinalydaou/profile/output/github-contribution-grid-snake-dark.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ousmanesinalydaou/profile/output/github-contribution-grid-snake.svg" />
   </picture>
-  <br/>
-  <sub>Animated contribution path — light / dark variants generated automatically.</sub>
 </p>
 
-<a name="3d-contribution-map"></a>
 <hr/>
 
 <h2>🧊 3D Contribution Map</h2>
 
-<!-- Generated by a GitHub Action in this repo; published to the output branch -->
+<!-- Generated by a GitHub Action in this repo -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ousmanesinalydaou/profile/output/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D contribution map"
-    width="100%"
-  />
+  <a href="https://raw.githubusercontent.com/ousmanesinalydaou/profile/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="https://raw.githubusercontent.com/ousmanesinalydaou/profile/main/profile-3d-contrib/thumbs/profile-night-rainbow.png" alt="3D contribution map" width="100%" />
+  </a>
 </p>
 
-<a name="research-interests"></a>
 <hr />
 
 <h2>📚 Research Interests</h2>
@@ -235,10 +215,7 @@ OpenGL Graphics   ████████░░   8/10
   <li>Optimization Methods</li>
 </ul>
 
-<a name="collaboration--contact"></a>
-<hr />
-
-<h2>🤝 Collaboration & Contact</h2>
+<h2>🤝 Collaboration</h2>
 
 Interested in collaborating on:
 - AI applications
@@ -248,8 +225,7 @@ Interested in collaborating on:
 - OpenGL / interactive graphics
 
 <p>
-<b>LinkedIn:</b> https://www.linkedin.com/in/ousmanedaou/  
-<b>Email:</b> ousmanedaou@live.fr
+<b>LinkedIn:</b> https://www.linkedin.com/in/ousmanedaou/
 </p>
 
 <p align="center">
