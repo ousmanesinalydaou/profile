@@ -249,7 +249,7 @@ Interested in collaborating on:
 
 <p>
 <b>LinkedIn:</b> https://www.linkedin.com/in/ousmanedaou/  
-<b>Email:</b> ousmane.daou [at] example.com
+<b>Email:</b> ousmanedaou@live.fr
 </p>
 
 <p align="center">
