@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 MSc CS @ University of Debrecen</code> &nbsp; <code>💼 CEO @ DAOU ENTERPRISE</code>
+  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 PhD in Computer Science @ University of Debrecen</code> &nbsp; <code>💼 CEO @ DAOU ENTERPRISE, @DAOU LABS</code>
 </p>
 
 <hr/>
