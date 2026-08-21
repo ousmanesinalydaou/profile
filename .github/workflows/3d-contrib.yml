@@ -38,7 +38,7 @@ jobs:
           for f in profile-3d-contrib/*.svg; do
             fname=$(basename "$f" .svg)
             # convert with width only so output preserves the SVG aspect ratio and "fits"
-            rsvg-convert -w 1200 "$f" -o profile-3d-contrib/thumbs/${fname}.png || true
+            rsvg-convert -w 800 "$f" -o profile-3d-contrib/thumbs/${fname}.png || true
           done
 
       - name: Commit & Push
@@ -46,5 +46,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile-3d-contrib || true
-          git commit -m "chore(3d): update 3D contribution graph and add PNG thumbs (width-only)" || echo "No changes to commit"
+          git commit -m "chore(3d): update 3D contribution graph and add PNG thumbs (width-only 800px)" || echo "No changes to commit"
           git push
